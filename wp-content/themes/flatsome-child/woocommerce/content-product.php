@@ -39,7 +39,7 @@ if ( $out_of_stock ) $classes[] = 'out-of-stock';
 ?><div <?php wc_product_class( $classes, $product ); ?>>
 	<div class="col-inner">
 	<?php do_action( 'woocommerce_before_shop_loop_item' ); ?>
-	<div class="product-small box <?php echo flatsome_product_box_class(); ?>">
+	<div class="product-small box-product-customize box <?php echo flatsome_product_box_class(); ?>">
 		<div class="box-image">
 			<div class="<?php echo flatsome_product_box_image_class(); ?>">
 				<a href="<?php echo get_the_permalink(); ?>" aria-label="<?php echo esc_attr( $product->get_title() ); ?>">
@@ -49,8 +49,9 @@ if ( $out_of_stock ) $classes[] = 'out-of-stock';
 						 * @hooked woocommerce_get_alt_product_thumbnail - 11
 						 * @hooked woocommerce_template_loop_product_thumbnail - 10
 						 */
-						do_action( 'flatsome_woocommerce_shop_loop_images' );
+						// do_action( 'flatsome_woocommerce_shop_loop_images' );
 					?>
+					<img src="<?php echo wp_get_attachment_url( $product->get_image_id(), 'full' ); ?>" />
 				</a>
 			</div>
 			<div class="image-tools is-small top right show-on-hover">
@@ -80,8 +81,9 @@ if ( $out_of_stock ) $classes[] = 'out-of-stock';
 
 				echo '<div class="price-wrapper">';	
 				do_action( 'woocommerce_after_shop_loop_item_title' );?>
-
-				<a href="?add-to-cart=<?php echo $product->get_id(); ?>" data-quantity="1" class="add_to_cart_button" data-product_id="<?php echo $product->get_id(); ?>" data-product_sku="" aria-label="Add “Gel In hồng” to your cart" rel="nofollow"></a>
+				<a href="?add-to-cart=<?php echo $product->get_id(); ?>" data-quantity="1" class="ajax_add_to_cart add_to_cart_button" data-product_id="<?php echo $product->get_id(); ?>" data-product_sku="<?php echo $product->get_sku(); ?>" aria-label="Add “<?php echo $product->get_title(); ?>" rel="nofollow">
+					<img src="<?php echo home_url(); ?>/wp-content/themes/flatsome-child/img/loadding.svg" class="loadding-cart-box">
+				</a>
 				<?php
 				echo '</div>';
 

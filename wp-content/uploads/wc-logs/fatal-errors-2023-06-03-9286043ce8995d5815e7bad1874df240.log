@@ -1,0 +1,104 @@
+2023-06-03T02:57:39+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:58:19+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:58:19+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:40+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:46+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:49+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin-ajax.php(22): require_once('/Applications/X...')
+#6 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T02:59:50+00:00 CRITICAL Uncaught Error: Call to undefined function add_ux_builder_shortcode() in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php:3
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php(5): require_once()
+#1 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/functions.php(5): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-settings.php(591): include('/Applications/X...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-config.php(97): require_once('/Applications/X...')
+#4 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-load.php(50): require_once('/Applications/X...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/admin.php(34): require_once('/Applications/X...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-admin/post.php(12): require_once('/Applications/X...')
+#7 {main}
+  thr in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s3_sl1_c1.php on line 3
+
+2023-06-03T03:52:39+00:00 CRITICAL require_once(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s4_r1_c2_item.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php on line 7
+
+2023-06-03T03:52:39+00:00 CRITICAL require_once(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s4_r1_c2_item.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php on line 7
+

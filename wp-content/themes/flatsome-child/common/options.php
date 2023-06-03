@@ -30,3 +30,11 @@ if( function_exists('acf_add_options_page') ) {
 }
 
 add_filter( 'flatsome_lightbox_close_btn_inside', '__return_true' );
+
+add_filter('woocommerce_currency_symbol', 'change_existing_currency_symbol', 10, 2);
+function change_existing_currency_symbol( $currency_symbol, $currency ) {
+ switch( $currency ) {
+ case 'VND': $currency_symbol = 'VND'; break;
+ }
+ return $currency_symbol;
+}

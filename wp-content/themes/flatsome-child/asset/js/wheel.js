@@ -350,19 +350,19 @@ $.fn.flipster = function(options) {
 			
 			
 			// Mousewheel Navigation
-			if ( settings.enableMousewheel && _flipItems.length > 1 ) { // TODO: Fix scrollwheel on Firefox
-				_flipster.on("mousewheel.flipster", function(e){
-					_throttleTimeout = window.setTimeout(removeThrottle, 500); //throttling should expire if scrolling pauses for a moment.
-					_actionThrottle++;
-					if (_actionThrottle % 4 !==0 && _actionThrottle !== 1) return; //throttling like with held-down keys
-					window.clearTimeout(_throttleTimeout);
+			// if ( settings.enableMousewheel && _flipItems.length > 1 ) { // TODO: Fix scrollwheel on Firefox
+			// 	_flipster.on("mousewheel.flipster", function(e){
+			// 		_throttleTimeout = window.setTimeout(removeThrottle, 500); //throttling should expire if scrolling pauses for a moment.
+			// 		_actionThrottle++;
+			// 		if (_actionThrottle % 4 !==0 && _actionThrottle !== 1) return; //throttling like with held-down keys
+			// 		window.clearTimeout(_throttleTimeout);
 					
-					if ( e.originalEvent.wheelDelta /120 > 0 ) { jump("left"); }
-					else { jump("right"); }
+			// 		if ( e.originalEvent.wheelDelta /120 > 0 ) { jump("left"); }
+			// 		else { jump("right"); }
 					
-					e.preventDefault();
-				});
-			}
+			// 		e.preventDefault();
+			// 	});
+			// }
 			
 			
 			// Touch Navigation

@@ -1,0 +1,79 @@
+.absolute-footer{
+	display: none;
+}
+.footer_row_1 .logo{
+	width: 115px;
+	margin-bottom: 12px;
+}
+.footer_row_1 .brand-desc{
+	color: #ffffff;
+	font-size: 13px;
+	text-align: justify;
+	margin-bottom: 12px;
+}
+.footer_row_1 .brand-desc b{
+	display: block;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+}
+.info_footer{
+	color: #ffffff;
+	font-size: 14px;
+}
+.widget-footer .widget-title{
+	font-weight: 700;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+	color: #ffffff;
+}
+.widget .footer-menu li,
+.widget .social-link li{
+	border-top:unset;
+}
+.footer-menu li a,
+.widget .social-link li a{
+	color: #fff;
+	padding: 0;
+	font-size: 14px;
+	display: flex;
+	align-items: center;
+}
+.footer-menu li a:hover,
+.widget .social-link li>a:hover{
+	color:var(--Mau_2)
+}
+.widget .social-link li {
+	margin-bottom: 13px;
+	display: flex;
+	align-items: center;
+}
+.widget .social-link li svg{
+	padding: 6px;
+    background: var(--Mau_2);
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+	margin-right: 12px;
+}
+.zalo-isocal i{
+	width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background:  var(--Mau_2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--Mau_2);
+    margin-right: 10px;
+}
+.widget .social-link li.zalo-isocal i svg{
+	padding:0;
+	width: auto;
+    height: auto;
+	margin: 0;
+}
+.widget .social-link li.zalo-isocal a{
+	display: flex;
+	align-items: center;
+}

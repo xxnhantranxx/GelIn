@@ -1,0 +1,12 @@
+2023-06-05T02:14:21+00:00 CRITICAL require_once(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s5_r1_c2_item.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php on line 9
+
+2023-06-05T02:14:21+00:00 CRITICAL require_once(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s5_r1_c2_item.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/shortcodes.php on line 9
+
+2023-06-05T02:18:21+00:00 CRITICAL Cannot redeclare s4_r1_c2() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s4_r1_c2.php:2) in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s5_r2_c1.php on line 2
+
+2023-06-05T02:18:21+00:00 CRITICAL Cannot redeclare s4_r1_c2() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s4_r1_c2.php:2) in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s5_r2_c1.php on line 2
+
+2023-06-05T02:18:23+00:00 CRITICAL Cannot redeclare s4_r1_c2() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s4_r1_c2.php:2) in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/shortcodes/components/s5_r2_c1.php on line 2
+
+2023-06-05T02:24:35+00:00 CRITICAL require_once(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/elements/components/s5_r1_c2.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/GelInNew/wp-content/themes/flatsome-child/builder/elements/elements.php on line 8
+

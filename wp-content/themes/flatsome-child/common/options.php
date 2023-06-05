@@ -1,7 +1,7 @@
 <?php
 // Add page option
 if( function_exists('acf_add_options_page') ) {
-	$linkicon = home_url().'/wp-content/uploads/2023/05/logo.jpg';
+	$linkicon = home_url().'/wp-content/uploads/2023/06/Logo2.png';
 	acf_add_options_page(array(
 		'page_title' 	=> 'Theme Options',
 		'menu_title'	=> 'Theme Options',

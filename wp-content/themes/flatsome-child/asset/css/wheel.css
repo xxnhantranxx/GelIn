@@ -640,14 +640,14 @@
 .block-text-cta .headding-s1{
   font-style: normal;
   font-weight: 600;
-  font-size: 85px;
-  line-height: 160px;
+  font-size: 60px;
+  line-height: 128px;
   color: #1B1B1B;
 }
 .block-text-cta .desc-s1{
   font-weight: 400;
   font-size: 20px;
-  line-height: 32px;
+line-height: 32px;
   color: #616161;
   margin-bottom: 80px;
   text-align: justify;

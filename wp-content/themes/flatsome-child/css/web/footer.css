@@ -1,79 +1,116 @@
 .absolute-footer{
 	display: none;
 }
-.footer_row_1 .logo{
-	width: 115px;
-	margin-bottom: 12px;
-}
-.footer_row_1 .brand-desc{
-	color: #ffffff;
-	font-size: 13px;
-	text-align: justify;
-	margin-bottom: 12px;
-}
-.footer_row_1 .brand-desc b{
+.widget_ft_logo .logo_footer{
 	display: block;
-	text-transform: uppercase;
-	margin-bottom: 12px;
+	margin-bottom: 30px;
 }
-.info_footer{
-	color: #ffffff;
-	font-size: 14px;
+.label_footer{
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 24px;
+	color: var(--Mau_2);
+	margin-bottom: 20px;
 }
-.widget-footer .widget-title{
-	font-weight: 700;
-    font-size: 14px;
-    margin-bottom: 10px;
-    text-transform: uppercase;
-	color: #ffffff;
-}
-.widget .footer-menu li,
-.widget .social-link li{
-	border-top:unset;
-}
-.footer-menu li a,
-.widget .social-link li a{
-	color: #fff;
-	padding: 0;
-	font-size: 14px;
+.widget_ft_logo  .list_isocal_footer{
+	margin-bottom: 0;
 	display: flex;
 	align-items: center;
 }
-.footer-menu li a:hover,
-.widget .social-link li>a:hover{
-	color:var(--Mau_2)
-}
-.widget .social-link li {
-	margin-bottom: 13px;
-	display: flex;
-	align-items: center;
-}
-.widget .social-link li svg{
-	padding: 6px;
-    background: var(--Mau_2);
-    border-radius: 50%;
-    width: 14px;
-    height: 14px;
-	margin-right: 12px;
-}
-.zalo-isocal i{
-	width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    background:  var(--Mau_2);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--Mau_2);
-    margin-right: 10px;
-}
-.widget .social-link li.zalo-isocal i svg{
-	padding:0;
-	width: auto;
-    height: auto;
+.widget_ft_logo  .list_isocal_footer .item{
+	list-style: none;
 	margin: 0;
+	margin-right: 20px;
 }
-.widget .social-link li.zalo-isocal a{
+.widget_ft_logo  .list_isocal_footer .item a{
+	display: block;
+}
+.widget_ft{
+	padding-top: 90px;
+}
+.list_contact{
+	margin-bottom: 0;
+}
+.list_contact .item{
+	list-style: none;
+	margin: 0;
+	margin-bottom: 16px;
+}
+.list_contact .item >a{
+	display: flex;
+	align-items: start;
+}
+.widget_ft .list_contact .item a:hover{
+	color: var(--Mau_1);
+}
+.list_contact .item a img{
+	margin-right: 16px;
+}
+.list_contact .item >a span{
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 24px;
+	color: var(--Mau_3);
+}
+.widget_ft .menu_2col{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+}
+.widget_ft .menu_2col .item{
+	width: calc(50% - 15px);
+	margin-right: 15px;
+}
+.widget_ft .menu_2col .item a{
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	color: var(--Mau_3);
+}
+.widget_ft .desc_footer{
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 24px;
+	color: var(--Mau_5);
+}
+.sft_r1_c4 .wpcf7 .wpcf7-form{
+	margin-bottom: 0;
+	margin-top: 30px;
+}
+.sft_r1_c4 .wpcf7 .wpcf7-form .form-flat > p{
 	display: flex;
 	align-items: center;
+}
+.sft_r1_c4 .wpcf7 .wpcf7-form .form-flat > p .wpcf7-spinner{
+	position: absolute;
+	left: 0;
+	top:50px
+}
+.sft_r1_c4 .wpcf7 .wpcf7-form .form-flat > p .wpcf7-submit{
+	height: 44px;
+	width: 132px;
+	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
+	border-radius: 9px;
+	margin-left: 10px;
+}
+.sft_r1_c4 .wpcf7 .wpcf7-form .form-flat > p .wpcf7-text{
+	flex:1;
+	height: 44px;
+	border-radius: 9px;
+	background: var(--Mau_4);
+}
+.sft_r2{
+	padding-top: 40px;
+	border-top: 1px solid #c1c1c1;
+}
+.copy_right{
+	margin-bottom: 0;
+	text-align: center;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 24px;
+	color: var(--Mau_3);
+}
+#footer .customize_footer{
+	padding-bottom: 15px;
 }
